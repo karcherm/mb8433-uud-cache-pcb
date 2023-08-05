@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Package_SOJ")(type "KiCad")(uri "${KIPRJMOD}/Libraries/SOJ.pretty")(options "")(descr ""))
+)
