@@ -1,0 +1,30 @@
+kibot:
+  version: 1
+
+import:
+  - file: JLCPCB
+    definitions:
+      _KIBOT_POS_ENABLED: false
+      _KIBOT_BOM_ENABLED: false
+      _KIBOT_IMPORT_DIR: ../JLCPCB
+
+global:
+  output: '%p-%i.%x'
+  dir: '../Docs'
+
+preflight:
+  erc: true
+  drc: true
+  check_zone_fills: true
+
+outputs:
+  - name: 'Generate schematic PDF'
+    comment: 'Print schematic as PDF file'
+    type: pdf_sch_print
+  - name: 'Generate PCB PDF'
+    comment: 'Print PCB as PDF file'
+    type: pcb_print
+    options:
+      pages:
+        - layers: ['B.Cu', 'F.Cu']
+
