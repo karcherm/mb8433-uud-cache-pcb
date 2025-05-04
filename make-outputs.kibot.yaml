@@ -6,11 +6,10 @@ import:
     definitions:
       _KIBOT_POS_ENABLED: false
       _KIBOT_BOM_ENABLED: false
-      _KIBOT_IMPORT_DIR: ../JLCPCB
 
 global:
   output: '%p-%i.%x'
-  dir: '../Docs'
+  dir: 'Docs'
 
 preflight:
   erc: true
