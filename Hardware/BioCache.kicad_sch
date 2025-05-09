@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Biostar MB-84xx-UUD 1MB cache module")
-		(date "2025-05-06")
+		(date "2025-05-09")
 		(rev "1.1")
 	)
 	(lib_symbols)
