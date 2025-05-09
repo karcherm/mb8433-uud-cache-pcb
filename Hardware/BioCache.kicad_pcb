@@ -645,7 +645,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/htmldatasheets/production/74798/0/0/1/IS6xC1024AL.pdf"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -657,7 +657,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "128K x 8-bit High-Speed CMOS Static RAM, IS61C1024AL (commercial and industrial) / IS64C1024AL (automotive), VDD = 5V ±10%, 12/15ns, SOJ-32 (300 mil)"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -669,7 +669,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm* *SOJ*7.5*20.*P1.27mm*")
+		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm*")
 		(path "/a4e7dbf1-2dde-4bf9-a68e-b2749c3d6e76/f6bccf38-aa1d-4d0c-ba36-9ab91e737d32")
 		(sheetname "/Data RAM/")
 		(sheetfile "BioCache-data.kicad_sch")
@@ -1199,7 +1199,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/htmldatasheets/production/74798/0/0/1/IS6xC1024AL.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1211,7 +1211,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "128K x 8-bit High-Speed CMOS Static RAM, IS61C1024AL (commercial and industrial) / IS64C1024AL (automotive), VDD = 5V ±10%, 12/15ns, SOJ-32 (300 mil)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1223,7 +1223,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm* *SOJ*7.5*20.*P1.27mm*")
+		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm*")
 		(path "/a4e7dbf1-2dde-4bf9-a68e-b2749c3d6e76/b7b009f4-4110-4368-bbcd-9f6c45a7f81d")
 		(sheetname "/Data RAM/")
 		(sheetfile "BioCache-data.kicad_sch")
@@ -1753,7 +1753,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/htmldatasheets/production/74798/0/0/1/IS6xC1024AL.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1765,7 +1765,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "128K x 8-bit High-Speed CMOS Static RAM, IS61C1024AL (commercial and industrial) / IS64C1024AL (automotive), VDD = 5V ±10%, 12/15ns, SOJ-32 (300 mil)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1777,7 +1777,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm* *SOJ*7.5*20.*P1.27mm*")
+		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm*")
 		(path "/a4e7dbf1-2dde-4bf9-a68e-b2749c3d6e76/99757114-4487-4e86-8043-7a9eac732751")
 		(sheetname "/Data RAM/")
 		(sheetfile "BioCache-data.kicad_sch")
@@ -2307,7 +2307,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/htmldatasheets/production/74798/0/0/1/IS6xC1024AL.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2319,7 +2319,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "128K x 8-bit High-Speed CMOS Static RAM, IS61C1024AL (commercial and industrial) / IS64C1024AL (automotive), VDD = 5V ±10%, 12/15ns, SOJ-32 (300 mil)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2331,7 +2331,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm* *SOJ*7.5*20.*P1.27mm*")
+		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm*")
 		(path "/a4e7dbf1-2dde-4bf9-a68e-b2749c3d6e76/4fe9ef84-aa8f-43d3-a6eb-10f29faf90db")
 		(sheetname "/Data RAM/")
 		(sheetfile "BioCache-data.kicad_sch")
@@ -3050,7 +3050,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/htmldatasheets/production/74798/0/0/1/IS6xC1024AL.pdf"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -3062,7 +3062,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "128K x 8-bit High-Speed CMOS Static RAM, IS61C1024AL (commercial and industrial) / IS64C1024AL (automotive), VDD = 5V ±10%, 12/15ns, SOJ-32 (300 mil)"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -3074,7 +3074,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm* *SOJ*7.5*20.*P1.27mm*")
+		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm*")
 		(path "/ee8140b0-8a9b-41c6-8c74-79e2a751ab5d/a6d646ff-5448-4195-aeb5-5218e880f65c")
 		(sheetname "/Tag RAM and Connectors/")
 		(sheetfile "BioCache-tag-conn.kicad_sch")
@@ -3604,7 +3604,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/htmldatasheets/production/74798/0/0/1/IS6xC1024AL.pdf"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3616,7 +3616,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "128K x 8-bit High-Speed CMOS Static RAM, IS61C1024AL (commercial and industrial) / IS64C1024AL (automotive), VDD = 5V ±10%, 12/15ns, SOJ-32 (300 mil)"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3628,7 +3628,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm* *SOJ*7.5*20.*P1.27mm*")
+		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm*")
 		(path "/a4e7dbf1-2dde-4bf9-a68e-b2749c3d6e76/2364a9c6-5bd7-450e-9eba-cc04faae2fa1")
 		(sheetname "/Data RAM/")
 		(sheetfile "BioCache-data.kicad_sch")
@@ -4725,7 +4725,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/htmldatasheets/production/74798/0/0/1/IS6xC1024AL.pdf"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -4737,7 +4737,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "128K x 8-bit High-Speed CMOS Static RAM, IS61C1024AL (commercial and industrial) / IS64C1024AL (automotive), VDD = 5V ±10%, 12/15ns, SOJ-32 (300 mil)"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -4749,7 +4749,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm* *SOJ*7.5*20.*P1.27mm*")
+		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm*")
 		(path "/a4e7dbf1-2dde-4bf9-a68e-b2749c3d6e76/7dcbec8b-7a45-4d56-873c-0e8208d210ec")
 		(sheetname "/Data RAM/")
 		(sheetfile "BioCache-data.kicad_sch")
@@ -6034,7 +6034,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/htmldatasheets/production/74798/0/0/1/IS6xC1024AL.pdf"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -6046,7 +6046,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "128K x 8-bit High-Speed CMOS Static RAM, IS61C1024AL (commercial and industrial) / IS64C1024AL (automotive), VDD = 5V ±10%, 12/15ns, SOJ-32 (300 mil)"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -6058,7 +6058,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm* *SOJ*7.5*20.*P1.27mm*")
+		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm*")
 		(path "/a4e7dbf1-2dde-4bf9-a68e-b2749c3d6e76/f5ea27f7-46f1-4034-9f39-a99d06d3215e")
 		(sheetname "/Data RAM/")
 		(sheetfile "BioCache-data.kicad_sch")
@@ -6588,7 +6588,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.digikey.com/htmldatasheets/production/74798/0/0/1/IS6xC1024AL.pdf"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -6600,7 +6600,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "128K x 8-bit High-Speed CMOS Static RAM, IS61C1024AL (commercial and industrial) / IS64C1024AL (automotive), VDD = 5V ±10%, 12/15ns, SOJ-32 (300 mil)"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -6612,7 +6612,7 @@
 				)
 			)
 		)
-		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm* *SOJ*7.5*20.*P1.27mm*")
+		(property ki_fp_filters "*SOJ*7.6*20.*P1.27mm*")
 		(path "/a4e7dbf1-2dde-4bf9-a68e-b2749c3d6e76/e280c752-5109-44a0-913f-8c1176e04a30")
 		(sheetname "/Data RAM/")
 		(sheetfile "BioCache-data.kicad_sch")

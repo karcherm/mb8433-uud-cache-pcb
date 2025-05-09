@@ -2481,7 +2481,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SOJmem:IS6xC1024AL-xxJ"
+		(symbol "Memory_RAM:IS6xC1024AL-xxJ"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2503,7 +2503,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "Package_SOJ:SOJ-32_7.58x20.955mm_P1.27mm"
+			(property "Footprint" "Package_SO:SOJ-32_7.62x20.955mm_P1.27mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2539,7 +2539,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "*SOJ*7.6*20.*P1.27mm* *SOJ*7.5*20.*P1.27mm*"
+			(property "ki_fp_filters" "*SOJ*7.6*20.*P1.27mm*"
 				(at 0 0 0)
 				(effects
 					(font
@@ -11223,7 +11223,7 @@
 		)
 	)
 	(symbol
-		(lib_id "SOJmem:IS6xC1024AL-xxJ")
+		(lib_id "Memory_RAM:IS6xC1024AL-xxJ")
 		(at 238.76 81.915 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11250,7 +11250,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SOJ:SOJ-32_7.58x20.955mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOJ-32_7.62x20.955mm_P1.27mm"
 			(at 238.76 81.915 0)
 			(effects
 				(font
